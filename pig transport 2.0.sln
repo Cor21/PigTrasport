@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "pig transport 2.0", "pig transport 2.0\pig transport 2.0.vbproj", "{6BF45755-5731-491B-9D13-63E9863C6BDE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup3", "Setup3\Setup3.vdproj", "{1FAE894A-291B-4852-ADA9-B625E608DAA2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{13673E95-B6ED-4BC9-86AB-80425E1D416C}"
+	ProjectSection(SolutionItems) = preProject
+		pigtransport2.accdb = pigtransport2.accdb
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BF45755-5731-491B-9D13-63E9863C6BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF45755-5731-491B-9D13-63E9863C6BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF45755-5731-491B-9D13-63E9863C6BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF45755-5731-491B-9D13-63E9863C6BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FAE894A-291B-4852-ADA9-B625E608DAA2}.Debug|Any CPU.ActiveCfg = Debug
+		{1FAE894A-291B-4852-ADA9-B625E608DAA2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABFBEE46-5669-4800-9135-AAC4524F3E5B}
+	EndGlobalSection
+EndGlobal
